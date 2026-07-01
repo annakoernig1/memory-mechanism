@@ -18,10 +18,11 @@ class LLMClient:
             client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
             msg = client.messages.create(
                 model=self.cfg.llm_model, max_tokens=1024,
-                temperature=self.cfg.temperature, system=system,
+                system=system,
                 messages=[{"role": "user", "content": user}],
             )
-            return msg.content[0].text
+            texte = [b.text for b in msg.content if getattr(b, "type", None) == "text"]
+            return "\n".join(texte)
         if self.provider == "openai":
             from openai import OpenAI
             client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
@@ -34,7 +35,9 @@ class LLMClient:
         raise ValueError(self.provider)
 
     def embed(self, text: str) -> list[float]:
-        if self.provider == "dryrun":
+        import os
+        # Dryrun -Embedding, solange kein OpenAI-Schlüssel gesetzt ist
+        if self.provider == "dryrun" or not os.environ.get("OPENAI_API_KEY"):
             # deterministisches Pseudo-Embedding nur fürs Skeleton
             import hashlib, struct
             h = hashlib.sha256(text.encode()).digest()

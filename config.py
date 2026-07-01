@@ -12,7 +12,7 @@ import json
 class MemoryConfig:
     # ---- Modell / Reproduzierbarkeit (Kap. 6.1.6) ----
     llm_provider: str = "anthropic"           # "anthropic" | "openai" | "dryrun"
-    llm_model: str = "claude-sonnet-4-...."   # EXAKTEN Versions-Snapshot eintragen!
+    llm_model: str = "claude-sonnet-5" 
     embedding_model: str = "text-embedding-3-small"
     temperature: float = 0.0                  # deterministisch für Reproduzierbarkeit
     seed: int = 42
