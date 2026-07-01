@@ -1,0 +1,25 @@
+# Virtuelle Umgebung
+.venv/
+venv/
+env/
+
+# Python Artefakte
+__pycache__
+*.pyc
+*.pyo
+*.pytest_cache
+
+# Lokale Daten / Datenbanken 
+.chroma/
+chroma/
+*.sqlite3
+
+# Secrets
+.env
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/

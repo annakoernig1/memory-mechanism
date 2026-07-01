@@ -1,0 +1,9 @@
+# Kernabhängigkeiten (Stand Konzeption – Versionen beim ersten pip-freeze pinnen!)
+anthropic>=0.40
+openai>=1.50
+chromadb>=0.5
+python-dotenv>=1.0
+numpy>=1.26
+pytest>=8.0
+# optional für fortgeschrittenes Retrieval (Technologieauswahl 4.5):
+# llama-index-core>=0.11
