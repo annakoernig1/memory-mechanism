@@ -1,0 +1,32 @@
+{
+  "affe2881": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "knowledge-update"
+  },
+  "gpt4_731e37d7": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "multi-session"
+  },
+  "8464fc84": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "single-session-assistant"
+  },
+  "6b7dfb22": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "single-session-preference"
+  },
+  "36580ce8": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "single-session-user"
+  },
+  "2ebe6c90": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "temporal-reasoning"
+  }
+}

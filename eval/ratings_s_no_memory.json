@@ -1,0 +1,62 @@
+{
+  "affe2881": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "knowledge-update"
+  },
+  "gpt4_731e37d7": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "multi-session"
+  },
+  "8464fc84": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "single-session-assistant"
+  },
+  "6b7dfb22": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "single-session-preference"
+  },
+  "36580ce8": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "single-session-user"
+  },
+  "2ebe6c90": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "temporal-reasoning"
+  },
+  "50635ada": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "knowledge-update"
+  },
+  "00ca467f": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "multi-session"
+  },
+  "4388e9dd": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "single-session-assistant"
+  },
+  "07b6f563": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "single-session-preference"
+  },
+  "15745da0_abs": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "single-session-user"
+  },
+  "b29f3365": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "temporal-reasoning"
+  }
+}

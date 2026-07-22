@@ -1,0 +1,38 @@
+[
+  {
+    "question_id": "affe2881",
+    "judge": "falsch",
+    "begruendung": "Die Hypothese nennt 27 Arten statt der korrekten Zahl 32.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "gpt4_731e37d7",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt den Gesamtbetrag von $720, der mit der Referenzantwort übereinstimmt.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "8464fc84",
+    "judge": "falsch",
+    "begruendung": "Die Antwort nennt nicht 'Roscioli', sondern gibt an, keine Information zu haben.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "6b7dfb22",
+    "judge": "korrekt",
+    "begruendung": "Die Antwort greift explizit Instagram als Inspirationsquelle, florale Themen, Techniken/Texturexperimente und die 30-Tage-Challenge auf und vermeidet generische Tipps, was der Referenzantwort entspricht.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "36580ce8",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt bronchitis als das eigentliche Gesundheitsproblem, was mit der Referenzantwort übereinstimmt.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "2ebe6c90",
+    "judge": "falsch",
+    "begruendung": "Die Hypothese liefert keine Antwort (21/22 Tage) und verfehlt damit die geforderte Kerninformation.",
+    "manuell": "falsch"
+  }
+]

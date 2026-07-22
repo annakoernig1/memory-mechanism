@@ -22,4 +22,5 @@ chroma/
 
 # Editor
 .vscode/
-.idea/
+.idea/data/longmemeval_s.json
+data/longmemeval_s.json

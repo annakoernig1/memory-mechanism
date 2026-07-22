@@ -68,12 +68,17 @@ def extract(conversation: str, cfg: MemoryConfig, llm: LLMClient) -> list[Extrac
     lo, hi = cfg.candidate_band
     out = []
     for m in data:
-        conf = float(m.get("confidence", 0))
-        if conf < lo:
+        try:
+            conf = float(m.get("confidence", 0))
+            if conf < lo:
+                continue
+            out.append(ExtractionCandidate(
+                content=m["content"], type=MemoryType(m["type"]),
+                domain=Domain(m.get("domain", "PERSONAL")), confidence=conf,
+                key=m.get("key"), value=m.get("value"),
+                entities=m.get("entities", []), is_candidate=(conf < hi)))
+        except (ValueError, KeyError, TypeError) as e:
+            print(f"[extraction] Ungültiger Eintrag übersprungen ({type(e).__name__}): "
+                  f"{str(m)[:120]}")
             continue
-        out.append(ExtractionCandidate(
-            content=m["content"], type=MemoryType(m["type"]),
-            domain=Domain(m.get("domain", "PERSONAL")), confidence=conf,
-            key=m.get("key"), value=m.get("value"),
-            entities=m.get("entities", []), is_candidate=(conf < hi)))
     return out

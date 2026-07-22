@@ -1,0 +1,82 @@
+[
+  {
+    "question_id": "gpt4_2655b836",
+    "question_type": "temporal-reasoning",
+    "question": "What was the first issue I had with my new car after its first service?",
+    "gold": "GPS system not functioning correctly",
+    "hypothesis": "Based on what I have saved, your first car service was on **March 15th**, and you described it as a great experience with no issues noted at that time.\n\nThe first issue that came up **after** that service was a **GPS system problem**, which occurred on **March 22nd**. The dealership ended up replacing the entire GPS system, and it's been working flawlessly ever since.",
+    "seconds": 78.0
+  },
+  {
+    "question_id": "gpt4_2487a7cb",
+    "question_type": "temporal-reasoning",
+    "question": "Which event did I attend first, the 'Effective Time Management' workshop or the 'Data Analysis using Python' webinar?",
+    "gold": "'Data Analysis using Python' webinar",
+    "hypothesis": "Based on what you've shared, the **\"Data Analysis using Python\" webinar** came first — you attended that one about two months ago. The **\"Effective Time Management\" workshop** was more recent, taking place last Saturday.",
+    "seconds": 49.7
+  },
+  {
+    "question_id": "gpt4_76048e76",
+    "question_type": "temporal-reasoning",
+    "question": "Which vehicle did I take care of first in February, the bike or the car?",
+    "gold": "bike",
+    "hypothesis": "Based on what you've shared, you took care of the **bike first** in February. It had gear/transmission issues that needed repair in **mid-February**, and it's been running smoothly ever since. The car came second — you washed the Corolla later, on **Monday, February 27th**, after not having washed it for over a month (following a snowstorm a few weeks prior).",
+    "seconds": 71.4
+  },
+  {
+    "question_id": "gpt4_2312f94c",
+    "question_type": "temporal-reasoning",
+    "question": "Which device did I got first, the Samsung Galaxy S22 or the Dell XPS 13?",
+    "gold": "Samsung Galaxy S22",
+    "hypothesis": "Basierend auf deinen gespeicherten Infos:\n\n- **Dell XPS 13**: Du hast ihn am **28. Januar vorbestellt**, ursprünglich war die Lieferung für den 11. Februar geplant, aber er kam verspätet erst am **25. Februar** an.\n- **Samsung Galaxy S22**: Dieses hast du am **20. Februar** erworben.\n\nDas bedeutet: Obwohl du den Laptop zuerst bestellt hast, hast du das **Samsung Galaxy S22 tatsächlich zuerst erhalten** (20. Februar), da der Dell XPS 13 sich verspätete und erst am 25. Februar bei dir ankam.",
+    "seconds": 61.7
+  },
+  {
+    "question_id": "0bb5a684",
+    "question_type": "temporal-reasoning",
+    "question": "How many days before the team meeting I was preparing for did I attend the workshop on 'Effective Communication in the Workplace'?",
+    "gold": "7 days. 8 days (including the last day) is also acceptable.",
+    "hypothesis": "You attended the \"Effective Communication in the Workplace\" workshop on January 10th, and your team meeting is on January 17th — so that's **7 days** before the meeting.",
+    "seconds": 56.7
+  },
+  {
+    "question_id": "08f4fc43",
+    "question_type": "temporal-reasoning",
+    "question": "How many days had passed between the Sunday mass at St. Mary's Church and the Ash Wednesday service at the cathedral?",
+    "gold": "30 days. 31 days (including the last day) is also acceptable.",
+    "hypothesis": "Based on the dates in our records:\n- Sunday mass at St. Mary's Church: **January 2**\n- Ash Wednesday service at the cathedral: **February 1**\n\nThe number of days between these two events is **30 days**.",
+    "seconds": 53.0
+  },
+  {
+    "question_id": "2c63a862",
+    "question_type": "temporal-reasoning",
+    "question": "How many days did it take for me to find a house I loved after starting to work with Rachel?",
+    "gold": "14 days. 15 days (including the last day) is also acceptable.",
+    "hypothesis": "Based on what I have saved, you started working with Rachel on **February 15th**, and you found a house you loved on **March 1st**. That means it took **14 days** to find a house you loved after starting to work with her.",
+    "seconds": 51.3
+  },
+  {
+    "question_id": "gpt4_385a5000",
+    "question_type": "temporal-reasoning",
+    "question": "Which seeds were started first, the tomatoes or the marigolds?",
+    "gold": "Tomatoes",
+    "hypothesis": "Basierend auf dem, was du mir bisher erzählt hast: Die **Tomaten (zusammen mit Paprika und Gurken) wurden zuerst gestartet** – du hast seit dem 20. Februar Sämlinge drinnen unter Grow-Lights im Keller gezogen, und diese sind bereits 2-3 Zoll groß.\n\nDie **Ringelblumen (Marigolds) kamen später dazu** – die Samen sind erst am 3. März angekommen und befinden sich aktuell noch in der Keimphase.\n\nDas ergibt auch zeitlich Sinn: Tomaten, Paprika und Gurken brauchen in der Regel einen längeren Vorlauf (6-8 Wochen vor dem letzten Frost), während Ringelblumen etwas schneller keimen und näher am Pflanztermin gestartet werden können.",
+    "seconds": 47.1
+  },
+  {
+    "question_id": "2a1811e2",
+    "question_type": "temporal-reasoning",
+    "question": "How many days had passed between the Hindu festival of Holi and the Sunday mass at St. Mary's Church?",
+    "gold": "21 days. 22 days (including the last day) is also acceptable.",
+    "hypothesis": "Basierend auf den gespeicherten Informationen:\n\n- Holi wurde am **26. Februar** gefeiert (am lokalen Tempel)\n- Der Sonntagsgottesdienst in der St. Mary's Church, bei dem Father John predigte, war am **19. März**\n\nZwischen diesen beiden Ereignissen liegen **21 Tage**.",
+    "seconds": 53.6
+  },
+  {
+    "question_id": "bbf86515",
+    "question_type": "temporal-reasoning",
+    "question": "How many days before the 'Rack Fest' did I participate in the 'Turbocharged Tuesdays' event?",
+    "gold": "4 days.",
+    "hypothesis": "Based on what I have stored: you attended **'Turbocharged Tuesdays'** on **June 14th** and **'Rack Fest'** on **June 18th**.\n\nThat means **4 days** passed between the two events — Turbocharged Tuesdays happened 4 days before Rack Fest.",
+    "seconds": 47.1
+  }
+]

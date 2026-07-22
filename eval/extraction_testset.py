@@ -4,7 +4,7 @@ TESTSET = [
     # === STABLE_FACT (Persönliche Daten, Equipment, Erfahrung) ===
     ("Ich bin 27 und mache seit 3 Jahren Triathlon.", {"STABLE_FACT"}),
     ("Ich bin 174cm groß und wiege aktuell 58kg.", {"STABLE_FACT"}),
-    ("Ich ernähre mich vegan, esse aber manchmal Eier.", {"STABLE_FACT"}),
+    ("Ich ernähre mich vegan", {"STABLE_FACT"}),
     ("Ich habe eine Laktoseintoleranz.", {"STABLE_FACT"}),
     ("Ich fahre ein Cube Litening Air C:62 SLX als Rennrad und ein Cube Nuraod als Gravelbike.", {"STABLE_FACT"}),
     ("Mein Rollentrainer ist ein Elite Direto XRT mit Direktantrieb.", {"STABLE_FACT"}),

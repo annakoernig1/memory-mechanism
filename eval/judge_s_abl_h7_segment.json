@@ -1,0 +1,38 @@
+[
+  {
+    "question_id": "affe2881",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt die Zahl 32, was mit der Referenzantwort übereinstimmt.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "gpt4_731e37d7",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt die korrekte Gesamtsumme von $720, wie in der Referenzantwort gefordert.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "8464fc84",
+    "judge": "falsch",
+    "begruendung": "Die Antwort nennt nicht 'Roscioli', sondern behauptet, keine Information zu haben.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "6b7dfb22",
+    "judge": "korrekt",
+    "begruendung": "Die Antwort greift explizit Instagram-Inspiration, florale Themen, Techniken (Palettmesser) und die 30-Tage-Challenge auf, statt generische Tipps zu geben, und erfüllt damit die Kernanforderungen der Referenzantwort.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "36580ce8",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt Bronchitis als die zunächst für Erkältung gehaltene Erkrankung.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "2ebe6c90",
+    "judge": "falsch",
+    "begruendung": "Die Antwort liefert nicht die geforderte Information (21 bzw. 22 Tage), sondern verneint deren Vorhandensein.",
+    "manuell": "falsch"
+  }
+]

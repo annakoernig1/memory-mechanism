@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "gpt4_2655b836",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt das GPS-Systemproblem als ersten Fehler nach dem ersten Service.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "gpt4_2487a7cb",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt das 'Data Analysis using Python'-Webinar als zuerst besuchtes Event, übereinstimmend mit der Referenzantwort.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "gpt4_76048e76",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt das Fahrrad als zuerst gepflegtes Fahrzeug im Februar.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "gpt4_2312f94c",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt das Samsung Galaxy S22 als zuerst erhaltenes Gerät, übereinstimmend mit der Referenzantwort.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "0bb5a684",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt 7 Tage, was mit der Referenzantwort übereinstimmt.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "08f4fc43",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt 30 Tage, was der Referenzantwort entspricht.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "2c63a862",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt 14 Tage, was mit der Referenzantwort übereinstimmt.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "gpt4_385a5000",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese identifiziert korrekt die Tomaten als zuerst gestartete Samen.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "2a1811e2",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt 21 Tage, was der akzeptierten Referenzantwort entspricht.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "bbf86515",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt 4 Tage als Abstand zwischen den Events.",
+    "manuell": "korrekt"
+  }
+]

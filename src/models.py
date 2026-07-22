@@ -19,6 +19,7 @@ class Domain(str, Enum):
     HEALTH = "HEALTH"
     NUTRITION = "NUTRITION"
     PERSONAL = "PERSONAL"
+    GENERAL = "GENERAL"
 
 
 def _now() -> str:

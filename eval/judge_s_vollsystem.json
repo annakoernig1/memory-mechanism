@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": "affe2881",
+    "judge": "falsch",
+    "begruendung": "Die Antwort nennt keine eindeutige Zahl, sondern zwei widersprüchliche Werte und verfehlt damit die klare Kerninformation '32'.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "gpt4_731e37d7",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt die Gesamtsumme von $720, wie in der Referenzantwort gefordert.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "8464fc84",
+    "judge": "falsch",
+    "begruendung": "Die Antwort nennt nicht 'Roscioli', sondern gibt an, keine Information zu haben und bietet nur allgemeine Vorschläge an.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "6b7dfb22",
+    "judge": "korrekt",
+    "begruendung": "Die Antwort greift explizit Instagram, den 30-Tage-Malwettbewerb und florale Motive als bestehende Inspirationsquellen auf und bietet konkrete, nicht-generische Vorschläge, was der Kernanforderung der Referenzantwort entspricht.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "36580ce8",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt Bronchitis als die anfangs für Erkältung gehaltene Erkrankung, was der Referenzantwort entspricht.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "2ebe6c90",
+    "judge": "falsch",
+    "begruendung": "Die Antwort liefert keine Angabe zu 21/22 Tagen, sondern verweigert die Auskunft.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "50635ada",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt Premier Silver als vorherigen Status.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "00ca467f",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt 2 Arztbesuche im März, entsprechend der Referenzantwort.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "4388e9dd",
+    "judge": "falsch",
+    "begruendung": "",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "07b6f563",
+    "judge": "korrekt",
+    "begruendung": "Die Antwort schlägt passende iPhone 13 Pro kompatible Accessoires wie Schutzhülle, Displayschutz und Powerbank/Wallet-Case vor, was der Kerninformation der Referenzantwort entspricht.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "15745da0_abs",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese stellt korrekt fest, dass keine Information über das Sammeln von Vintage-Filmen vorliegt, sondern nur über Vintage-Kameras.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "b29f3365",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese berechnet korrekt vier Wochen Unterricht zum Zeitpunkt des Amp-Kaufs, was der Referenzantwort entspricht.",
+    "manuell": "korrekt"
+  }
+]

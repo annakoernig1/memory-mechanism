@@ -1,0 +1,38 @@
+[
+  {
+    "question_id": "affe2881",
+    "judge": "falsch",
+    "begruendung": "Die Referenzantwort nennt 32 als Anzahl der im lokalen Park gesehenen Arten, während die Hypothese 27 als Parkzahl angibt und 32 fälschlich einer anderen Kategorie zuordnet.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "gpt4_731e37d7",
+    "judge": "falsch",
+    "begruendung": "Die Hypothese nennt nur $220 als unvollständige Teilsumme statt der korrekten Gesamtsumme von $720.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "8464fc84",
+    "judge": "falsch",
+    "begruendung": "Die Hypothese nennt nicht den geforderten Namen 'Roscioli', sondern verweigert die Antwort.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "6b7dfb22",
+    "judge": "korrekt",
+    "begruendung": "Die Antwort greift konkrete Elemente wie Instagram-Inspiration, Blumen-Thema, Techniken/Tutorials und den 30-Tage-Malwettbewerb auf und vermeidet generische Vorschläge, wie in der Referenzantwort gefordert.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "36580ce8",
+    "judge": "korrekt",
+    "begruendung": "Die Antwort nennt korrekt Bronchitis als die zunächst für eine Erkältung gehaltene Erkrankung.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "2ebe6c90",
+    "judge": "falsch",
+    "begruendung": "Die Antwort nennt keine konkrete Tagesangabe (21/22 Tage), sondern verweigert die Antwort.",
+    "manuell": "falsch"
+  }
+]

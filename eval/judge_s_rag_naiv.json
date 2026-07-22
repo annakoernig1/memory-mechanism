@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": "affe2881",
+    "judge": "falsch",
+    "begruendung": "Die Hypothese nennt 27 statt der geforderten 32 als Anzahl der im lokalen Park gesehenen Vogelarten.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "50635ada",
+    "judge": "falsch",
+    "begruendung": "Die Antwort nennt keine eindeutige vorherige Status-Angabe (Premier Silver), sondern bleibt unsicher und widersprüchlich.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "gpt4_731e37d7",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt die Gesamtsumme von $720 wie in der Referenzantwort.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "00ca467f",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt klar 2 Arzttermine im März und stimmt somit mit der Referenzantwort überein, auch wenn zusätzliche Spekulationen zu Physiotherapie hinzugefügt werden.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "8464fc84",
+    "judge": "falsch",
+    "begruendung": "Die Hypothese nennt nicht den geforderten Namen 'Roscioli', sondern gibt an, keine Information zu haben.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "4388e9dd",
+    "judge": "falsch",
+    "begruendung": "Die Antwort verneint jegliches Wissen über das Drehbuch und nennt nicht die geforderte Information zu Andys Kleidung.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "6b7dfb22",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese greift Instagram-Inspiration, neue Techniken, frühere Themen (Blumen) und die 30-Tage-Challenge auf und vermeidet generische Vorschläge, was den Kernanforderungen der Referenzantwort entspricht.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "07b6f563",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt passende iPhone-13-Pro-kompatible Accessoires wie Wallet Case, Displayschutz, Powerbank und Ladezubehör, was der Kerninformation der Referenzantwort entspricht.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "36580ce8",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt Bronchitis als die ursprünglich für eine Erkältung gehaltene Erkrankung.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "15745da0_abs",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese stellt richtig klar, dass keine Info zu vintage films existiert, sondern nur zu vintage Kameras, was der Kernaussage der Referenz entspricht.",
+    "manuell": "korrekt"
+  },
+  {
+    "question_id": "2ebe6c90",
+    "judge": "falsch",
+    "begruendung": "Die Antwort nennt keine konkrete Tageszahl und verfehlt damit die geforderte Kerninformation (21/22 Tage).",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "b29f3365",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese nennt korrekt vier Wochen als Dauer der Gitarrenstunden vor dem Amp-Kauf.",
+    "manuell": "korrekt"
+  }
+]

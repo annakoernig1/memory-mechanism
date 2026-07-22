@@ -42,6 +42,9 @@ class MemoryConfig:
     })
     uniform_lambda: float = 0.02              # für Ablation "ohne typspezifischen Decay"
 
+    # ---- Baseline-Schalter (Kap. 6.1) ----
+    retrieval_mode: str = "memory"      # "memory" | "none" | "full_context"
+
     # ===================================================================
     # FEATURE-FLAGS = ABLATIONSSCHALTER  (Vollsystem = alle True)
     # ===================================================================

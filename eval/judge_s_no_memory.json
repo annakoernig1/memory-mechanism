@@ -1,0 +1,74 @@
+[
+  {
+    "question_id": "affe2881",
+    "judge": "falsch",
+    "begruendung": "Die Antwort nennt nicht die geforderte Zahl 32, sondern verweist auf fehlenden Kontext.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "gpt4_731e37d7",
+    "judge": "falsch",
+    "begruendung": "Die Hypothese liefert keinen konkreten Betrag (720$) und verfehlt damit die Kerninformation.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "8464fc84",
+    "judge": "falsch",
+    "begruendung": "Die Antwort nennt nicht 'Roscioli', sondern verweigert die Antwort und verweist auf allgemeine Suchmethoden.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "6b7dfb22",
+    "judge": "falsch",
+    "begruendung": "Die Antwort gibt generische Kreativitätstipps, ohne auf die bevorzugten Quellen (Instagram-Accounts, Tutorials, Blumen-Thema, 30-Tage-Challenge) einzugehen, die laut Referenz explizit gewünscht sind.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "36580ce8",
+    "judge": "falsch",
+    "begruendung": "Die Hypothese liefert nicht die geforderte Information (bronchitis), sondern verweist auf fehlenden Kontext.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "2ebe6c90",
+    "judge": "falsch",
+    "begruendung": "Die Hypothese nennt keine konkrete Zahl von Tagen und verfehlt damit die geforderte Kerninformation (21/22 Tage).",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "50635ada",
+    "judge": "falsch",
+    "begruendung": "Die Hypothese liefert die korrekte Information 'Premier Silver' nicht, sondern behauptet fälschlich, keine Information zu haben.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "00ca467f",
+    "judge": "falsch",
+    "begruendung": "Die Hypothese nennt nicht die geforderte Zahl 2, sondern verweigert eine konkrete Antwort.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "4388e9dd",
+    "judge": "falsch",
+    "begruendung": "Die Hypothese liefert nicht die geforderte Kerninformation (untidy, stained white shirt), sondern verweist auf fehlenden Kontext.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "07b6f563",
+    "judge": "falsch",
+    "begruendung": "Die Hypothese liefert nur generische Vorschläge und fragt nach dem Telefonmodell, statt die erwartete iPhone-13-Pro-spezifische Empfehlung (Screen Protector, Case, Powerbank, Wallet Case) direkt zu geben.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "15745da0_abs",
+    "judge": "korrekt",
+    "begruendung": "Die Hypothese stellt korrekt fest, dass keine Information über das Sammeln von Vintage-Filmen vorliegt, was der Kernaussage der Referenzantwort entspricht.",
+    "manuell": "falsch"
+  },
+  {
+    "question_id": "b29f3365",
+    "judge": "falsch",
+    "begruendung": "Die Hypothese nennt nicht die geforderte Information 'vier Wochen', sondern verweist auf fehlenden Kontext.",
+    "manuell": "falsch"
+  }
+]

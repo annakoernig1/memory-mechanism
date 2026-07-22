@@ -1,0 +1,82 @@
+{
+  "gpt4_2655b836": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "temporal-reasoning"
+  },
+  "gpt4_2487a7cb": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "temporal-reasoning"
+  },
+  "gpt4_76048e76": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "temporal-reasoning"
+  },
+  "gpt4_2312f94c": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "temporal-reasoning"
+  },
+  "0bb5a684": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "temporal-reasoning"
+  },
+  "08f4fc43": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "temporal-reasoning"
+  },
+  "2c63a862": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "temporal-reasoning"
+  },
+  "gpt4_385a5000": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "temporal-reasoning"
+  },
+  "2a1811e2": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "temporal-reasoning"
+  },
+  "bbf86515": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "temporal-reasoning"
+  },
+  "affe2881": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "knowledge-update"
+  },
+  "gpt4_731e37d7": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "multi-session"
+  },
+  "8464fc84": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "single-session-assistant"
+  },
+  "6b7dfb22": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "single-session-preference"
+  },
+  "36580ce8": {
+    "urteil": "korrekt",
+    "notiz": "",
+    "question_type": "single-session-user"
+  },
+  "2ebe6c90": {
+    "urteil": "falsch",
+    "notiz": "",
+    "question_type": "temporal-reasoning"
+  }
+}

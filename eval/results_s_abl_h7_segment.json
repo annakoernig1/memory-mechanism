@@ -1,0 +1,62 @@
+[
+  {
+    "question_id": "affe2881",
+    "question_type": "knowledge-update",
+    "question": "How many different species of birds have I seen in my local park?",
+    "gold": "32",
+    "hypothesis": "Laut meinen Notizen hast du in deinem lokalen Park bisher **32 verschiedene Vogelarten** gesichtet. 🦉🐦\n\nDas ist übrigens eine Steigerung gegenüber deinem früheren Stand von 27 Arten – du machst also gute Fortschritte bei deinem Birding-Hobby! Falls du weitere Naturschutzgebiete oder Parks in deiner Gegend erkundest, könnte die Zahl sicher noch weiter steigen.",
+    "config_fingerprint": "{\"candidate_band\": [0.4, 0.6], \"chroma_path\": \"/var/folders/hc/8pgxv5kx17v1_kv20qjlmfbr0000gn/T/lme_b8u9_xcy/chroma\", \"confidence_threshold\": 0.6, \"context_token_budget\": 2000, \"decay_delete_threshold\": 0.05, \"decay_lambda\": {\"DYNAMIC_STATE\": 0.05, \"EPISODE\": 0.03, \"GOAL\": 0.0, \"PREFERENCE\": 0.005, \"STABLE_FACT\": 0.001}, \"decay_retrieval_threshold\": 0.2, \"embedding_model\": \"text-embedding-3-small\", \"enable_dual_store\": true, \"enable_llm_op_selection\": true, \"enable_segmentation\": false, \"enable_sycophancy_guard\": true, \"enable_typed_decay\": true, \"llm_model\": \"claude-sonnet-5\", \"llm_provider\": \"anthropic\", \"retrieval_mode\": \"memory\", \"seed\": 42, \"sqlite_path\": \"/var/folders/hc/8pgxv5kx17v1_kv20qjlmfbr0000gn/T/lme_b8u9_xcy/memory.sqlite3\", \"state_recency_days\": 14, \"temperature\": 0.0, \"top_k\": 10, \"uniform_lambda\": 0.02}",
+    "seconds": 979.0,
+    "config_name": "abl_h7_segment"
+  },
+  {
+    "question_id": "gpt4_731e37d7",
+    "question_type": "multi-session",
+    "question": "How much total money did I spend on attending workshops in the last four months?",
+    "gold": "$720",
+    "hypothesis": "Basierend auf den gespeicherten Informationen sind mir für drei Workshops konkrete Kosten bekannt:\n\n1. **Schreibworkshop** (zweitägig, Literaturfestival, November) – **$200**\n2. **Achtsamkeits-Workshop** (halbtägig, Yoga-Studio, 12. Dezember) – **$20**\n3. **Digital-Marketing-Workshop** (15.–16. März, City Convention Center) – **$500**\n\n**Gesamtsumme: $720**\n\nHinweis: Du hast laut deinen Angaben in den letzten drei Monaten insgesamt fünf Workshops besucht, aber ich habe nur zu diesen drei konkrete Preisangaben gespeichert. Falls es weitere kostenpflichtige Workshops in diesem Zeitraum gab, müsste ich die genauen Kosten noch von dir erfragen, um die Summe zu vervollständigen.",
+    "config_fingerprint": "{\"candidate_band\": [0.4, 0.6], \"chroma_path\": \"/var/folders/hc/8pgxv5kx17v1_kv20qjlmfbr0000gn/T/lme_xw6z7zo0/chroma\", \"confidence_threshold\": 0.6, \"context_token_budget\": 2000, \"decay_delete_threshold\": 0.05, \"decay_lambda\": {\"DYNAMIC_STATE\": 0.05, \"EPISODE\": 0.03, \"GOAL\": 0.0, \"PREFERENCE\": 0.005, \"STABLE_FACT\": 0.001}, \"decay_retrieval_threshold\": 0.2, \"embedding_model\": \"text-embedding-3-small\", \"enable_dual_store\": true, \"enable_llm_op_selection\": true, \"enable_segmentation\": false, \"enable_sycophancy_guard\": true, \"enable_typed_decay\": true, \"llm_model\": \"claude-sonnet-5\", \"llm_provider\": \"anthropic\", \"retrieval_mode\": \"memory\", \"seed\": 42, \"sqlite_path\": \"/var/folders/hc/8pgxv5kx17v1_kv20qjlmfbr0000gn/T/lme_xw6z7zo0/memory.sqlite3\", \"state_recency_days\": 14, \"temperature\": 0.0, \"top_k\": 10, \"uniform_lambda\": 0.02}",
+    "seconds": 1056.5,
+    "config_name": "abl_h7_segment"
+  },
+  {
+    "question_id": "8464fc84",
+    "question_type": "single-session-assistant",
+    "question": "I'm planning to visit the Vatican again and I was wondering if you could remind me of the name of that famous deli near the Vatican that serves the best cured meats and cheeses?",
+    "gold": "Roscioli",
+    "hypothesis": "Ich muss ehrlich sein – ich habe keinen gespeicherten Eintrag über einen bestimmten Feinkostladen (Deli) in der Nähe des Vatikans, den du besucht hast oder der dir empfohlen wurde. In meinem Kontext zu deiner Rom-Reise finde ich nur:\n\n- Du planst einen Besuch der Sixtinischen Kapelle und des Petersdoms\n- Du interessierst dich für Souvenirshops in der Vatikan-Umgebung\n- Du bist Gelato-Fan\n- Du möchtest Restaurants in Rom testen\n\nAber keinen konkreten Namen eines Delis mit Aufschnitt und Käse. Das könnte etwas sein, das du woanders gelesen oder von jemand anderem gehört hast, und nicht Teil unserer bisherigen Unterhaltungen war.\n\nFalls du möchtest, kann ich dir aktuelle, gut bewertete Feinkostläden/Delis in der Nähe des Vatikans vorschlagen (basierend auf allgemeinem Wissen, nicht auf deiner persönlichen Historie) – sag einfach Bescheid, ob dir das hilft! Oder erinnerst du dich noch an weitere Details (Straßenname, was du dort gegessen hast), die mir helfen könnten, es einzugrenzen?",
+    "config_fingerprint": "{\"candidate_band\": [0.4, 0.6], \"chroma_path\": \"/var/folders/hc/8pgxv5kx17v1_kv20qjlmfbr0000gn/T/lme_ab84hkhp/chroma\", \"confidence_threshold\": 0.6, \"context_token_budget\": 2000, \"decay_delete_threshold\": 0.05, \"decay_lambda\": {\"DYNAMIC_STATE\": 0.05, \"EPISODE\": 0.03, \"GOAL\": 0.0, \"PREFERENCE\": 0.005, \"STABLE_FACT\": 0.001}, \"decay_retrieval_threshold\": 0.2, \"embedding_model\": \"text-embedding-3-small\", \"enable_dual_store\": true, \"enable_llm_op_selection\": true, \"enable_segmentation\": false, \"enable_sycophancy_guard\": true, \"enable_typed_decay\": true, \"llm_model\": \"claude-sonnet-5\", \"llm_provider\": \"anthropic\", \"retrieval_mode\": \"memory\", \"seed\": 42, \"sqlite_path\": \"/var/folders/hc/8pgxv5kx17v1_kv20qjlmfbr0000gn/T/lme_ab84hkhp/memory.sqlite3\", \"state_recency_days\": 14, \"temperature\": 0.0, \"top_k\": 10, \"uniform_lambda\": 0.02}",
+    "seconds": 852.0,
+    "config_name": "abl_h7_segment"
+  },
+  {
+    "question_id": "6b7dfb22",
+    "question_type": "single-session-preference",
+    "question": "I've been feeling a bit stuck with my paintings lately. Do you have any ideas on how I can find new inspiration?",
+    "gold": "The user would prefer responses that build upon their existing sources of inspiration, such as revisiting Instagram art accounts or exploring new techniques from online tutorials. They might also appreciate suggestions that revisit previous themes they found enjoyable, like painting flowers. The user would not prefer generic or vague suggestions for finding inspiration, and would likely appreciate responses that utilize their recent 30-day painting challenge experience.",
+    "hypothesis": "Feeling stuck happens to every artist — it's a great sign you're pushing to grow! Here are some ideas tailored to what I know about your painting journey:\n\n**Lean into what already excites you:**\n- You mentioned wanting to try **realistic florals** inspired by Instagram — maybe set aside a session just to explore that, even as loose studies rather than \"finished\" pieces\n- Revisit **palette knife textures** — sometimes switching tools completely shakes loose new ideas. Try a piece using only knife work, no brushes at all\n\n**Change your input, not just your output:**\n- Since you already get inspiration from social media, try switching platforms or communities — Pinterest boards, Behance, or even niche Instagram hashtags (like #paletteknifepainting or #botanicalart) can surface different styles than your usual feed\n- Visit a museum or gallery (even virtually) outside your usual genre — if you paint realism, look at abstract or vice versa\n- Look at photography, nature walks, or even fabric/textile patterns for color palettes and compositions\n\n**Shift the process:**\n- Since you're doing a 30-day challenge, try a themed constraint for a few days — one color only, a specific object each day, or paint the same subject 3 different ways\n- Do quick 10-minute \"ugly\" sketches with no pressure — sometimes low stakes unlocks creativity\n- Revisit old paintings you're proud of and ask what made them work — sometimes the answer is right there\n\n**Environment matters:**\n- How's the small studio space coming along? Sometimes rearranging your workspace, adding new light, or even just tidying up can spark fresh energy\n\nWould you like help exploring any of these further — like specific artists to check out for florals, or texture techniques with a palette knife?",
+    "config_fingerprint": "{\"candidate_band\": [0.4, 0.6], \"chroma_path\": \"/var/folders/hc/8pgxv5kx17v1_kv20qjlmfbr0000gn/T/lme_5minarzl/chroma\", \"confidence_threshold\": 0.6, \"context_token_budget\": 2000, \"decay_delete_threshold\": 0.05, \"decay_lambda\": {\"DYNAMIC_STATE\": 0.05, \"EPISODE\": 0.03, \"GOAL\": 0.0, \"PREFERENCE\": 0.005, \"STABLE_FACT\": 0.001}, \"decay_retrieval_threshold\": 0.2, \"embedding_model\": \"text-embedding-3-small\", \"enable_dual_store\": true, \"enable_llm_op_selection\": true, \"enable_segmentation\": false, \"enable_sycophancy_guard\": true, \"enable_typed_decay\": true, \"llm_model\": \"claude-sonnet-5\", \"llm_provider\": \"anthropic\", \"retrieval_mode\": \"memory\", \"seed\": 42, \"sqlite_path\": \"/var/folders/hc/8pgxv5kx17v1_kv20qjlmfbr0000gn/T/lme_5minarzl/memory.sqlite3\", \"state_recency_days\": 14, \"temperature\": 0.0, \"top_k\": 10, \"uniform_lambda\": 0.02}",
+    "seconds": 915.6,
+    "config_name": "abl_h7_segment"
+  },
+  {
+    "question_id": "36580ce8",
+    "question_type": "single-session-user",
+    "question": "What health issue did I initially think was just a cold?",
+    "gold": "bronchitis",
+    "hypothesis": "You initially thought it was just a cold, but it turned out to be a severe case of bronchitis.",
+    "config_fingerprint": "{\"candidate_band\": [0.4, 0.6], \"chroma_path\": \"/var/folders/hc/8pgxv5kx17v1_kv20qjlmfbr0000gn/T/lme_3a7g802g/chroma\", \"confidence_threshold\": 0.6, \"context_token_budget\": 2000, \"decay_delete_threshold\": 0.05, \"decay_lambda\": {\"DYNAMIC_STATE\": 0.05, \"EPISODE\": 0.03, \"GOAL\": 0.0, \"PREFERENCE\": 0.005, \"STABLE_FACT\": 0.001}, \"decay_retrieval_threshold\": 0.2, \"embedding_model\": \"text-embedding-3-small\", \"enable_dual_store\": true, \"enable_llm_op_selection\": true, \"enable_segmentation\": false, \"enable_sycophancy_guard\": true, \"enable_typed_decay\": true, \"llm_model\": \"claude-sonnet-5\", \"llm_provider\": \"anthropic\", \"retrieval_mode\": \"memory\", \"seed\": 42, \"sqlite_path\": \"/var/folders/hc/8pgxv5kx17v1_kv20qjlmfbr0000gn/T/lme_3a7g802g/memory.sqlite3\", \"state_recency_days\": 14, \"temperature\": 0.0, \"top_k\": 10, \"uniform_lambda\": 0.02}",
+    "seconds": 939.4,
+    "config_name": "abl_h7_segment"
+  },
+  {
+    "question_id": "2ebe6c90",
+    "question_type": "temporal-reasoning",
+    "question": "How many days did it take me to finish 'The Nightingale' by Kristin Hannah?",
+    "gold": "21 days. 22 days (including the last day) is also acceptable.",
+    "hypothesis": "Ich habe leider keine Information darüber gespeichert, wie viele Tage du gebraucht hast, um \"The Nightingale\" zu beenden. In meinem Kontext steht nur, dass du das Buch heute begonnen hast zu lesen (bzw. das Hörbuch gehört und positiv bewertet hast), aber kein konkretes Fertigstellungsdatum oder eine Zeitspanne.\n\nFalls du mir sagst, an welchem Tag du es begonnen und beendet hast, kann ich mir das für die Zukunft merken!",
+    "config_fingerprint": "{\"candidate_band\": [0.4, 0.6], \"chroma_path\": \"/var/folders/hc/8pgxv5kx17v1_kv20qjlmfbr0000gn/T/lme_lcr_1e_x/chroma\", \"confidence_threshold\": 0.6, \"context_token_budget\": 2000, \"decay_delete_threshold\": 0.05, \"decay_lambda\": {\"DYNAMIC_STATE\": 0.05, \"EPISODE\": 0.03, \"GOAL\": 0.0, \"PREFERENCE\": 0.005, \"STABLE_FACT\": 0.001}, \"decay_retrieval_threshold\": 0.2, \"embedding_model\": \"text-embedding-3-small\", \"enable_dual_store\": true, \"enable_llm_op_selection\": true, \"enable_segmentation\": false, \"enable_sycophancy_guard\": true, \"enable_typed_decay\": true, \"llm_model\": \"claude-sonnet-5\", \"llm_provider\": \"anthropic\", \"retrieval_mode\": \"memory\", \"seed\": 42, \"sqlite_path\": \"/var/folders/hc/8pgxv5kx17v1_kv20qjlmfbr0000gn/T/lme_lcr_1e_x/memory.sqlite3\", \"state_recency_days\": 14, \"temperature\": 0.0, \"top_k\": 10, \"uniform_lambda\": 0.02}",
+    "seconds": 873.6,
+    "config_name": "abl_h7_segment"
+  }
+]

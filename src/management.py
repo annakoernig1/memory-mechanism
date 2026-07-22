@@ -6,6 +6,7 @@ from __future__ import annotations
 from config import MemoryConfig
 from src.llm import LLMClient
 from src.models import MemoryItem, MemoryType, ExtractionCandidate
+from src.decay import current_weight
 
 _STRUCTURED = {MemoryType.STABLE_FACT, MemoryType.DYNAMIC_STATE, MemoryType.GOAL}
 
@@ -35,6 +36,7 @@ class ManagementLayer:
         return "ADD"
 
     def _apply(self, op: str, item: MemoryItem) -> None:
+        item.decay_weight = current_weight(item, self.cfg) # aktuelles Gewicht setzen
         use_facts = self.cfg.enable_dual_store and item.type in _STRUCTURED
         if op in ("ADD", "UPDATE", "MERGE"):
             if use_facts:
