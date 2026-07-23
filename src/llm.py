@@ -41,7 +41,7 @@ class LLMClient:
                 system=[{
                     "type": "text",
                     "text": system,
-                    "cache_control": {"type": "ephemeral"},  # nicht im Anthropic-Cache speichern
+                    "cache_control": {"type": "ephemeral"},  # aktiviert Prompt Caching des System Prompts (greift erst ab ~1024 Token Präfix)
                 }],
                 messages=[{"role": "user", "content": user}],
             ))

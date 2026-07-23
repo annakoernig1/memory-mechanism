@@ -1,0 +1,40 @@
+{
+  "latenz_ms": {
+    "median": 204.9,
+    "mittel": 235.2,
+    "min": 148.6,
+    "max": 1596.5,
+    "stdabw": 143.8
+  },
+  "n_latenz": 100,
+  "token": {
+    "read_in": {
+      "median": 274,
+      "mittel": 273.6,
+      "min": 272,
+      "max": 275,
+      "stdabw": 1.4
+    },
+    "read_out": {
+      "median": 965,
+      "mittel": 969.4,
+      "min": 942,
+      "max": 1008,
+      "stdabw": 25.9
+    },
+    "write_in": {
+      "median": 1365,
+      "mittel": 1357,
+      "min": 1342,
+      "max": 1367,
+      "stdabw": 11.1
+    },
+    "write_out": {
+      "median": 215,
+      "mittel": 231.4,
+      "min": 181,
+      "max": 289,
+      "stdabw": 39.9
+    }
+  }
+}
